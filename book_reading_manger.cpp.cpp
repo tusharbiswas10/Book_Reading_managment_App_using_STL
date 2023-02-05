@@ -340,6 +340,7 @@ public:
 
 		while (true) {
 			string user_name, pass;
+			cout << "Use dummy data to login";
 			cout << "Enter user user_name & password: ";
 			cin >> user_name >> pass;
 
